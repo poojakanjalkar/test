@@ -1,0 +1,7 @@
+//this is the test file
+
+steps:
+update file
+add file
+commit file
+push file
